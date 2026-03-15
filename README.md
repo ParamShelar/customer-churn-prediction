@@ -170,7 +170,7 @@ customer-churn-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ParamShelar/customer-churn-prediction>
 cd customer-churn-prediction
 ```
 
